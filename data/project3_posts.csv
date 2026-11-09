@@ -1,0 +1,401 @@
+post_id,brand,platform,campaign,content_type,product_category,likes,comments_count,shares,views,days_since_post
+P0001,Brand C,Facebook,Summer Lawn,Reel,Lawn suit,1179,145,73,19111,9
+P0002,Brand B,Instagram,12.12 Sale,Sale Announcement,Lawn suit,486,96,38,7658,18
+P0003,Brand C,TikTok,Summer Lawn,Styling Video,Lawn suit,707,84,33,10299,67
+P0004,Brand B,Instagram,12.12 Sale,Influencer Post,Lawn suit,868,170,48,12279,69
+P0005,Brand B,TikTok,11.11 Sale,Influencer Post,Lawn suit,1166,130,36,17088,75
+P0006,Brand B,Instagram,Eid Collection,Eid Campaign,Lawn suit,2427,410,185,23119,9
+P0007,Brand C,TikTok,12.12 Sale,Reel,Lawn suit,852,53,30,7937,14
+P0008,Brand C,TikTok,Winter Edit,Sale Announcement,Lawn suit,890,118,54,18919,81
+P0009,Brand A,Instagram,Winter Edit,Product Photo,Lawn suit,164,27,6,2555,83
+P0010,Brand A,TikTok,11.11 Sale,Reel,Lawn suit,785,148,38,18699,65
+P0011,Brand B,Facebook,12.12 Sale,Styling Video,Lawn suit,435,75,26,8007,10
+P0012,Brand B,Facebook,Summer Lawn,Eid Campaign,Lawn suit,518,28,23,4453,7
+P0013,Brand C,Instagram,Summer Lawn,Sale Announcement,Lawn suit,369,39,27,3940,5
+P0014,Brand B,TikTok,Eid Collection,Sale Announcement,Lawn suit,503,28,19,5783,62
+P0015,Brand B,Facebook,12.12 Sale,Sale Announcement,Lawn suit,1044,69,57,25669,76
+P0016,Brand C,TikTok,Eid Collection,Sale Announcement,Lawn suit,286,43,9,3351,57
+P0017,Brand B,Instagram,Eid Collection,Styling Video,Lawn suit,722,113,27,12106,24
+P0018,Brand B,TikTok,Summer Lawn,Reel,Lawn suit,609,101,24,14564,68
+P0019,Brand B,Instagram,Eid Collection,Eid Campaign,Lawn suit,870,156,16,21412,6
+P0020,Brand B,Instagram,11.11 Sale,Influencer Post,Lawn suit,1728,278,28,20767,74
+P0021,Brand C,TikTok,12.12 Sale,Styling Video,Lawn suit,972,165,55,8587,80
+P0022,Brand C,TikTok,Summer Lawn,Influencer Post,Lawn suit,2108,120,117,22368,64
+P0023,Brand B,Facebook,12.12 Sale,Product Photo,Lawn suit,469,39,26,4256,79
+P0024,Brand B,TikTok,Eid Collection,Eid Campaign,Lawn suit,701,100,7,7933,53
+P0025,Brand B,Facebook,Summer Lawn,Sale Announcement,Lawn suit,536,95,17,9468,42
+P0026,Brand A,TikTok,Winter Edit,Styling Video,Lawn suit,817,41,19,19209,29
+P0027,Brand B,Facebook,Winter Edit,Influencer Post,Lawn suit,1060,134,68,18160,83
+P0028,Brand A,Instagram,Summer Lawn,Sale Announcement,Lawn suit,328,49,23,6114,63
+P0029,Brand A,Instagram,12.12 Sale,Styling Video,Lawn suit,748,40,20,8550,17
+P0030,Brand A,Facebook,Winter Edit,Influencer Post,Lawn suit,1093,120,62,23619,86
+P0031,Brand B,Facebook,12.12 Sale,Influencer Post,Lawn suit,4260,785,81,78820,6
+P0032,Brand A,Facebook,Eid Collection,Product Photo,Lawn suit,1539,231,45,34920,53
+P0033,Brand B,Instagram,Winter Edit,Reel,Lawn suit,492,42,9,11872,17
+P0034,Brand B,Instagram,11.11 Sale,Styling Video,Lawn suit,600,106,17,8348,60
+P0035,Brand B,Facebook,Winter Edit,Eid Campaign,Lawn suit,450,45,25,4292,37
+P0036,Brand C,TikTok,11.11 Sale,Reel,Lawn suit,573,101,42,6784,39
+P0037,Brand B,Instagram,Winter Edit,Eid Campaign,Lawn suit,1270,120,30,19612,60
+P0038,Brand C,Facebook,12.12 Sale,Sale Announcement,Lawn suit,1239,171,59,29831,68
+P0039,Brand C,Facebook,12.12 Sale,Product Photo,Lawn suit,338,37,19,4877,34
+P0040,Brand A,Instagram,11.11 Sale,Styling Video,Lawn suit,485,44,37,10235,89
+P0041,Brand A,Facebook,Winter Edit,Reel,Lawn suit,237,43,12,4073,45
+P0042,Brand B,Facebook,Eid Collection,Sale Announcement,Lawn suit,556,43,15,6175,15
+P0043,Brand C,TikTok,12.12 Sale,Sale Announcement,Lawn suit,332,20,17,4466,1
+P0044,Brand A,TikTok,11.11 Sale,Influencer Post,Lawn suit,701,71,22,13392,19
+P0045,Brand A,Instagram,12.12 Sale,Reel,Lawn suit,485,76,37,9427,62
+P0046,Brand C,Facebook,11.11 Sale,Eid Campaign,Lawn suit,997,170,37,15344,49
+P0047,Brand C,Facebook,Summer Lawn,Influencer Post,Lawn suit,346,69,20,4112,31
+P0048,Brand A,Facebook,11.11 Sale,Eid Campaign,Lawn suit,449,42,5,9102,43
+P0049,Brand B,Facebook,Eid Collection,Sale Announcement,Lawn suit,2141,238,81,23274,75
+P0050,Brand B,Instagram,Eid Collection,Sale Announcement,Lawn suit,293,20,20,7009,51
+P0051,Brand A,TikTok,Summer Lawn,Sale Announcement,Lawn suit,326,44,17,3649,6
+P0052,Brand A,TikTok,11.11 Sale,Product Photo,Lawn suit,1503,300,61,14765,5
+P0053,Brand B,Facebook,11.11 Sale,Influencer Post,Lawn suit,5370,833,405,88390,43
+P0054,Brand B,TikTok,Summer Lawn,Influencer Post,Lawn suit,483,67,33,8130,36
+P0055,Brand A,TikTok,11.11 Sale,Influencer Post,Lawn suit,770,83,25,12812,76
+P0056,Brand B,Instagram,11.11 Sale,Reel,Lawn suit,987,184,47,15222,52
+P0057,Brand A,Facebook,11.11 Sale,Styling Video,Lawn suit,1966,244,87,48976,68
+P0058,Brand C,TikTok,11.11 Sale,Reel,Lawn suit,456,31,24,7417,53
+P0059,Brand A,Instagram,Summer Lawn,Sale Announcement,Lawn suit,530,55,17,8546,31
+P0060,Brand A,Facebook,12.12 Sale,Sale Announcement,Lawn suit,4,0,0,58372,59
+P0061,Brand A,Instagram,Winter Edit,Eid Campaign,Lawn suit,1363,109,100,12452,56
+P0062,Brand C,Instagram,Summer Lawn,Sale Announcement,Lawn suit,491,25,36,8877,65
+P0063,Brand C,Instagram,Eid Collection,Influencer Post,Lawn suit,883,104,60,10486,17
+P0064,Brand B,TikTok,11.11 Sale,Eid Campaign,Lawn suit,473,68,37,8911,58
+P0065,Brand A,Instagram,11.11 Sale,Influencer Post,Lawn suit,831,84,51,7366,26
+P0066,Brand C,Facebook,12.12 Sale,Product Photo,Lawn suit,439,49,27,10836,71
+P0067,Brand B,TikTok,11.11 Sale,Eid Campaign,Lawn suit,1209,234,76,19311,72
+P0068,Brand C,Instagram,Winter Edit,Influencer Post,Lawn suit,690,112,30,16038,56
+P0069,Brand B,Instagram,11.11 Sale,Reel,Lawn suit,1066,139,44,17146,85
+P0070,Brand C,TikTok,12.12 Sale,Influencer Post,Lawn suit,1738,161,46,15686,48
+P0071,Brand C,Instagram,Eid Collection,Sale Announcement,Lawn suit,669,123,36,14703,3
+P0072,Brand A,Facebook,Winter Edit,Product Photo,Lawn suit,628,53,18,11944,54
+P0073,Brand C,Instagram,Winter Edit,Influencer Post,Lawn suit,986,97,27,20991,70
+P0074,Brand A,TikTok,Summer Lawn,Reel,Lawn suit,808,150,41,12345,10
+P0075,Brand B,Instagram,11.11 Sale,Sale Announcement,Lawn suit,403,52,15,7594,10
+P0076,Brand A,Instagram,Eid Collection,Influencer Post,Lawn suit,1152,185,29,25984,25
+P0077,Brand C,Instagram,Summer Lawn,Product Photo,Lawn suit,484,67,32,9064,76
+P0078,Brand A,Instagram,12.12 Sale,Product Photo,Lawn suit,1750,259,122,24343,47
+P0079,Brand B,Facebook,Winter Edit,Styling Video,Lawn suit,1793,170,38,34538,87
+P0080,Brand B,Facebook,Summer Lawn,Sale Announcement,Lawn suit,765,65,8,14857,78
+P0081,Brand C,Facebook,12.12 Sale,Eid Campaign,Lawn suit,674,66,22,16398,50
+P0082,Brand C,Instagram,Winter Edit,Influencer Post,Lawn suit,500,36,32,7152,61
+P0083,Brand A,Facebook,Winter Edit,Reel,Lawn suit,1631,295,112,24834,30
+P0084,Brand C,TikTok,12.12 Sale,Sale Announcement,Lawn suit,712,65,14,15525,9
+P0085,Brand A,Instagram,Eid Collection,Styling Video,Lawn suit,940,126,60,15602,36
+P0086,Brand B,Instagram,Eid Collection,Sale Announcement,Lawn suit,227,38,4,4658,53
+P0087,Brand B,TikTok,12.12 Sale,Reel,Lawn suit,1395,233,52,22062,17
+P0088,Brand B,TikTok,12.12 Sale,Product Photo,Lawn suit,667,77,53,7779,20
+P0089,Brand C,Instagram,Eid Collection,Sale Announcement,Lawn suit,323,39,7,6675,2
+P0090,Brand C,Facebook,Eid Collection,Sale Announcement,Lawn suit,2790,552,54,28536,66
+P0091,Brand B,Facebook,Summer Lawn,Influencer Post,Lawn suit,1116,168,44,12695,81
+P0092,Brand C,TikTok,Summer Lawn,Sale Announcement,Lawn suit,630,108,33,11753,74
+P0093,Brand A,Facebook,Eid Collection,Eid Campaign,Lawn suit,888,164,66,18384,34
+P0094,Brand A,Facebook,12.12 Sale,Influencer Post,Lawn suit,899,151,70,20865,53
+P0095,Brand B,Facebook,Eid Collection,Eid Campaign,Lawn suit,909,70,13,11484,86
+P0096,Brand B,Instagram,Summer Lawn,Product Photo,Lawn suit,559,75,10,5524,53
+P0097,Brand C,Facebook,Winter Edit,Product Photo,Lawn suit,1211,79,79,29370,27
+P0098,Brand C,TikTok,Winter Edit,Sale Announcement,Lawn suit,146,21,4,1551,31
+P0099,Brand A,Facebook,12.12 Sale,Styling Video,Lawn suit,618,119,44,7020,65
+P0100,Brand A,Facebook,Summer Lawn,Reel,Lawn suit,896,113,50,11605,40
+P0101,Brand C,Instagram,Winter Edit,Sale Announcement,Lawn suit,726,83,12,12341,75
+P0102,Brand B,TikTok,Summer Lawn,Product Photo,Lawn suit,414,22,28,9525,77
+P0103,Brand A,Instagram,12.12 Sale,Sale Announcement,Lawn suit,226,43,5,4730,4
+P0104,Brand C,Instagram,Summer Lawn,Reel,Lawn suit,979,64,38,19617,65
+P0105,Brand B,TikTok,12.12 Sale,Sale Announcement,Lawn suit,1686,94,82,18509,33
+P0106,Brand C,Facebook,Winter Edit,Sale Announcement,Lawn suit,255,22,11,3590,47
+P0107,Brand C,Facebook,12.12 Sale,Sale Announcement,Lawn suit,1012,60,58,16326,24
+P0108,Brand C,TikTok,Winter Edit,Styling Video,Lawn suit,586,69,32,6156,33
+P0109,Brand B,Instagram,Eid Collection,Influencer Post,Lawn suit,922,117,73,11661,30
+P0110,Brand C,TikTok,Eid Collection,Sale Announcement,Lawn suit,334,32,26,4422,5
+P0111,Brand C,Facebook,Eid Collection,Product Photo,Lawn suit,423,24,19,4299,70
+P0112,Brand A,Facebook,12.12 Sale,Sale Announcement,Lawn suit,1309,87,21,22716,13
+P0113,Brand A,Instagram,Summer Lawn,Styling Video,Lawn suit,998,107,60,19945,34
+P0114,Brand A,Instagram,11.11 Sale,Influencer Post,Lawn suit,2667,157,209,24506,18
+P0115,Brand B,Facebook,Eid Collection,Styling Video,Lawn suit,1418,219,45,22941,15
+P0116,Brand B,Instagram,Winter Edit,Styling Video,Lawn suit,917,74,38,19529,34
+P0117,Brand A,Instagram,Summer Lawn,Reel,Lawn suit,2264,215,89,46900,82
+P0118,Brand B,Instagram,Summer Lawn,Reel,Lawn suit,1045,114,14,22839,85
+P0119,Brand A,TikTok,12.12 Sale,Product Photo,Lawn suit,829,93,47,12949,34
+P0120,Brand B,TikTok,12.12 Sale,Reel,Lawn suit,679,34,23,14903,45
+P0121,Brand B,TikTok,Eid Collection,Influencer Post,Lawn suit,994,66,64,12020,88
+P0122,Brand B,Instagram,Eid Collection,Sale Announcement,Lawn suit,409,73,27,5780,21
+P0123,Brand B,Facebook,Winter Edit,Styling Video,Lawn suit,1269,63,85,13956,85
+P0124,Brand B,Facebook,11.11 Sale,Influencer Post,Lawn suit,481,60,18,7670,10
+P0125,Brand C,TikTok,Summer Lawn,Eid Campaign,Lawn suit,1674,206,54,24549,21
+P0126,Brand C,Instagram,Summer Lawn,Styling Video,Lawn suit,635,63,39,7680,31
+P0127,Brand C,TikTok,11.11 Sale,Reel,Lawn suit,1612,184,106,33497,4
+P0128,Brand B,Facebook,11.11 Sale,Sale Announcement,Lawn suit,947,158,42,12628,73
+P0129,Brand B,TikTok,Summer Lawn,Styling Video,Lawn suit,2076,365,150,26235,77
+P0130,Brand A,Instagram,Eid Collection,Styling Video,Lawn suit,1089,96,21,11135,35
+P0131,Brand B,TikTok,12.12 Sale,Styling Video,Lawn suit,288,28,20,4452,75
+P0132,Brand A,TikTok,Winter Edit,Styling Video,Lawn suit,682,58,11,8968,69
+P0133,Brand B,TikTok,Summer Lawn,Reel,Lawn suit,410,50,8,5853,72
+P0134,Brand A,TikTok,Summer Lawn,Styling Video,Lawn suit,525,80,24,6306,72
+P0135,Brand B,Instagram,Eid Collection,Sale Announcement,Lawn suit,1484,125,21,31124,52
+P0136,Brand C,Facebook,Eid Collection,Product Photo,Lawn suit,742,73,10,17667,10
+P0137,Brand C,TikTok,11.11 Sale,Styling Video,Lawn suit,473,89,4,7787,83
+P0138,Brand B,TikTok,11.11 Sale,Reel,Lawn suit,4939,275,198,93500,55
+P0139,Brand A,TikTok,Eid Collection,Influencer Post,Lawn suit,974,116,62,22150,81
+P0140,Brand A,TikTok,Winter Edit,Influencer Post,Lawn suit,471,73,5,11765,86
+P0141,Brand A,Instagram,Eid Collection,Eid Campaign,Lawn suit,711,51,39,13103,17
+P0142,Brand C,Facebook,Summer Lawn,Product Photo,Lawn suit,614,35,41,14199,36
+P0143,Brand C,Instagram,12.12 Sale,Product Photo,Lawn suit,1005,71,21,23563,18
+P0144,Brand B,TikTok,Summer Lawn,Influencer Post,Lawn suit,1368,256,27,29349,5
+P0145,Brand A,Instagram,11.11 Sale,Eid Campaign,Lawn suit,281,14,19,4449,87
+P0146,Brand A,Instagram,11.11 Sale,Eid Campaign,Lawn suit,1262,98,85,11837,83
+P0147,Brand C,Instagram,Summer Lawn,Reel,Lawn suit,843,46,40,6970,83
+P0148,Brand A,Facebook,11.11 Sale,Product Photo,Lawn suit,651,43,43,10489,79
+P0149,Brand A,TikTok,Summer Lawn,Sale Announcement,Lawn suit,1579,225,26,25900,58
+P0150,Brand A,TikTok,Eid Collection,Reel,Lawn suit,248,21,9,3701,47
+P0151,Brand A,Facebook,Eid Collection,Eid Campaign,Lawn suit,745,100,45,13155,89
+P0152,Brand B,Instagram,Summer Lawn,Product Photo,Lawn suit,722,100,20,12553,50
+P0153,Brand C,TikTok,Summer Lawn,Eid Campaign,Lawn suit,420,74,26,9333,58
+P0154,Brand A,TikTok,Eid Collection,Product Photo,Lawn suit,1214,61,54,11954,19
+P0155,Brand C,TikTok,Winter Edit,Influencer Post,Lawn suit,1187,211,74,14039,67
+P0156,Brand A,Instagram,Eid Collection,Styling Video,Lawn suit,1166,166,49,25046,73
+P0157,Brand A,Facebook,Winter Edit,Reel,Lawn suit,579,43,20,12977,61
+P0158,Brand A,Instagram,Summer Lawn,Styling Video,Lawn suit,1144,189,28,28499,45
+P0159,Brand C,Facebook,Winter Edit,Styling Video,Lawn suit,1329,236,32,30353,18
+P0160,Brand B,Facebook,Winter Edit,Sale Announcement,Lawn suit,699,61,43,16166,4
+P0161,Brand C,TikTok,11.11 Sale,Eid Campaign,Lawn suit,1211,227,22,16159,56
+P0162,Brand A,Instagram,Summer Lawn,Styling Video,Lawn suit,831,98,13,12322,61
+P0163,Brand A,Instagram,11.11 Sale,Influencer Post,Lawn suit,577,81,12,7245,69
+P0164,Brand C,Facebook,12.12 Sale,Influencer Post,Lawn suit,876,173,19,16037,85
+P0165,Brand A,Facebook,11.11 Sale,Influencer Post,Lawn suit,874,91,59,20940,45
+P0166,Brand A,Facebook,12.12 Sale,Sale Announcement,Lawn suit,764,131,28,10588,74
+P0167,Brand B,Instagram,Winter Edit,Product Photo,Lawn suit,917,89,72,16019,64
+P0168,Brand B,TikTok,12.12 Sale,Product Photo,Lawn suit,281,47,5,3663,25
+P0169,Brand A,Instagram,Eid Collection,Influencer Post,Lawn suit,3,0,0,67669,76
+P0170,Brand B,Facebook,11.11 Sale,Reel,Lawn suit,1937,159,80,21923,5
+P0171,Brand C,TikTok,Summer Lawn,Reel,Lawn suit,524,58,19,4708,54
+P0172,Brand B,Facebook,12.12 Sale,Reel,Lawn suit,501,48,35,12093,84
+P0173,Brand B,Facebook,12.12 Sale,Sale Announcement,Lawn suit,687,42,53,10201,59
+P0174,Brand A,Facebook,12.12 Sale,Sale Announcement,Lawn suit,1001,54,71,22202,84
+P0175,Brand B,TikTok,11.11 Sale,Sale Announcement,Lawn suit,615,62,14,12043,5
+P0176,Brand C,TikTok,12.12 Sale,Influencer Post,Lawn suit,2098,110,53,23629,48
+P0177,Brand B,TikTok,Summer Lawn,Sale Announcement,Lawn suit,1008,75,56,11070,70
+P0178,Brand C,Instagram,Winter Edit,Reel,Lawn suit,1326,210,40,28911,58
+P0179,Brand A,Instagram,Summer Lawn,Eid Campaign,Lawn suit,1462,228,89,18275,79
+P0180,Brand A,TikTok,Winter Edit,Styling Video,Lawn suit,2807,451,139,66037,42
+P0181,Brand B,Facebook,Winter Edit,Eid Campaign,Lawn suit,934,91,45,9695,61
+P0182,Brand A,TikTok,Eid Collection,Reel,Lawn suit,256,46,17,4997,38
+P0183,Brand B,Facebook,11.11 Sale,Influencer Post,Lawn suit,2471,343,147,53981,78
+P0184,Brand C,Instagram,11.11 Sale,Sale Announcement,Lawn suit,469,32,5,5627,11
+P0185,Brand B,TikTok,Eid Collection,Influencer Post,Lawn suit,1018,72,13,12924,23
+P0186,Brand B,TikTok,Eid Collection,Influencer Post,Lawn suit,2074,319,108,50599,9
+P0187,Brand C,TikTok,Summer Lawn,Reel,Lawn suit,321,24,14,4011,63
+P0188,Brand A,Instagram,11.11 Sale,Influencer Post,Lawn suit,461,58,13,7057,21
+P0189,Brand C,Instagram,Eid Collection,Product Photo,Lawn suit,208,41,8,3193,29
+P0190,Brand A,Facebook,11.11 Sale,Product Photo,Lawn suit,325,16,20,3998,75
+P0191,Brand C,TikTok,11.11 Sale,Sale Announcement,Lawn suit,789,41,53,16717,33
+P0192,Brand B,Instagram,Eid Collection,Styling Video,Lawn suit,964,191,47,20361,13
+P0193,Brand A,Instagram,Eid Collection,Styling Video,Lawn suit,834,114,30,12035,2
+P0194,Brand C,Instagram,Summer Lawn,Influencer Post,Lawn suit,421,29,12,9344,21
+P0195,Brand A,Facebook,Winter Edit,Eid Campaign,Lawn suit,278,51,12,3230,82
+P0196,Brand B,Instagram,12.12 Sale,Reel,Lawn suit,834,151,26,6733,49
+P0197,Brand C,Facebook,Summer Lawn,Influencer Post,Lawn suit,725,94,35,12839,89
+P0198,Brand C,Instagram,Winter Edit,Reel,Lawn suit,1058,151,60,26343,20
+P0199,Brand C,TikTok,Winter Edit,Influencer Post,Lawn suit,1446,131,21,12517,32
+P0200,Brand B,Instagram,Eid Collection,Eid Campaign,Lawn suit,1144,65,11,13197,15
+P0201,Brand B,Facebook,Winter Edit,Influencer Post,Lawn suit,1497,208,37,25181,36
+P0202,Brand A,Instagram,Eid Collection,Eid Campaign,Lawn suit,1207,113,87,26275,51
+P0203,Brand C,TikTok,Eid Collection,Influencer Post,Lawn suit,1306,195,72,12424,72
+P0204,Brand B,Instagram,12.12 Sale,Sale Announcement,Lawn suit,407,71,8,5990,33
+P0205,Brand C,Instagram,Summer Lawn,Influencer Post,Lawn suit,860,45,62,17802,69
+P0206,Brand B,Instagram,Eid Collection,Product Photo,Lawn suit,574,79,24,8217,56
+P0207,Brand C,Facebook,11.11 Sale,Sale Announcement,Lawn suit,987,83,42,11064,26
+P0208,Brand A,TikTok,11.11 Sale,Eid Campaign,Lawn suit,837,151,63,9477,82
+P0209,Brand C,TikTok,11.11 Sale,Product Photo,Lawn suit,693,61,9,10374,39
+P0210,Brand A,TikTok,Winter Edit,Sale Announcement,Lawn suit,524,74,13,8462,14
+P0211,Brand A,Facebook,11.11 Sale,Product Photo,Lawn suit,479,63,24,10849,86
+P0212,Brand B,TikTok,11.11 Sale,Sale Announcement,Lawn suit,992,108,23,18766,82
+P0213,Brand B,TikTok,Eid Collection,Sale Announcement,Lawn suit,198,30,11,3907,5
+P0214,Brand C,Instagram,Eid Collection,Influencer Post,Lawn suit,450,71,11,11119,81
+P0215,Brand B,Instagram,Eid Collection,Sale Announcement,Lawn suit,262,35,4,3930,85
+P0216,Brand A,Instagram,12.12 Sale,Product Photo,Lawn suit,141,23,3,2094,74
+P0217,Brand A,TikTok,12.12 Sale,Reel,Lawn suit,544,107,21,12891,23
+P0218,Brand B,Instagram,12.12 Sale,Reel,Lawn suit,1256,141,28,15297,57
+P0219,Brand B,Instagram,Winter Edit,Influencer Post,Lawn suit,809,102,15,16509,48
+P0220,Brand B,Instagram,12.12 Sale,Eid Campaign,Lawn suit,1185,61,83,24680,56
+P0221,Brand A,Instagram,Eid Collection,Reel,Lawn suit,1535,260,49,14831,55
+P0222,Brand B,Facebook,11.11 Sale,Influencer Post,Lawn suit,2096,268,73,33452,57
+P0223,Brand B,TikTok,11.11 Sale,Sale Announcement,Lawn suit,587,65,8,6697,46
+P0224,Brand C,Facebook,Winter Edit,Product Photo,Lawn suit,1130,72,39,12601,62
+P0225,Brand B,TikTok,11.11 Sale,Sale Announcement,Lawn suit,644,118,18,10229,47
+P0226,Brand C,Facebook,Eid Collection,Product Photo,Lawn suit,318,34,16,4108,2
+P0227,Brand A,Instagram,Summer Lawn,Sale Announcement,Lawn suit,433,65,10,9323,4
+P0228,Brand C,TikTok,12.12 Sale,Styling Video,Lawn suit,6,0,0,28396,86
+P0229,Brand A,Facebook,Eid Collection,Styling Video,Lawn suit,424,82,31,9178,81
+P0230,Brand A,TikTok,Summer Lawn,Product Photo,Lawn suit,417,32,7,5221,53
+P0231,Brand C,Facebook,11.11 Sale,Influencer Post,Lawn suit,6,0,0,116676,16
+P0232,Brand B,Instagram,Winter Edit,Eid Campaign,Lawn suit,2925,523,52,36066,70
+P0233,Brand B,Instagram,Winter Edit,Reel,Lawn suit,364,68,19,3747,13
+P0234,Brand B,Facebook,11.11 Sale,Sale Announcement,Lawn suit,768,62,14,18466,34
+P0235,Brand C,Instagram,12.12 Sale,Influencer Post,Lawn suit,521,62,36,7728,30
+P0236,Brand A,Facebook,12.12 Sale,Sale Announcement,Lawn suit,806,128,50,9526,2
+P0237,Brand A,Facebook,Summer Lawn,Styling Video,Lawn suit,657,119,44,14712,72
+P0238,Brand A,Facebook,Eid Collection,Influencer Post,Lawn suit,332,35,15,4909,46
+P0239,Brand C,TikTok,11.11 Sale,Product Photo,Lawn suit,880,112,70,7565,29
+P0240,Brand A,Facebook,Eid Collection,Styling Video,Lawn suit,499,80,6,5365,46
+P0241,Brand B,Instagram,Summer Lawn,Reel,Lawn suit,592,94,22,11169,1
+P0242,Brand B,TikTok,Eid Collection,Styling Video,Lawn suit,383,64,12,8161,39
+P0243,Brand A,Instagram,12.12 Sale,Reel,Lawn suit,552,74,42,6395,47
+P0244,Brand B,Facebook,Summer Lawn,Styling Video,Lawn suit,911,59,45,21495,31
+P0245,Brand A,Facebook,Winter Edit,Styling Video,Lawn suit,635,117,42,14266,74
+P0246,Brand A,Facebook,11.11 Sale,Reel,Lawn suit,980,176,21,21974,23
+P0247,Brand A,Facebook,Eid Collection,Sale Announcement,Lawn suit,754,127,59,8950,13
+P0248,Brand C,Instagram,Summer Lawn,Influencer Post,Lawn suit,2087,135,93,18488,47
+P0249,Brand B,Instagram,Eid Collection,Sale Announcement,Lawn suit,501,40,22,11395,79
+P0250,Brand C,Facebook,Eid Collection,Reel,Lawn suit,345,55,26,4553,34
+P0251,Brand B,TikTok,Winter Edit,Product Photo,Lawn suit,954,51,34,17669,5
+P0252,Brand A,Instagram,Winter Edit,Influencer Post,Lawn suit,787,154,29,16463,87
+P0253,Brand B,Facebook,Summer Lawn,Product Photo,Lawn suit,981,104,49,9987,40
+P0254,Brand C,Facebook,Winter Edit,Product Photo,Lawn suit,640,101,12,13615,16
+P0255,Brand B,TikTok,Eid Collection,Styling Video,Lawn suit,657,120,21,15738,55
+P0256,Brand A,Facebook,Eid Collection,Reel,Lawn suit,991,108,23,20198,29
+P0257,Brand A,Instagram,11.11 Sale,Sale Announcement,Lawn suit,1926,188,33,29854,84
+P0258,Brand C,Instagram,Eid Collection,Reel,Lawn suit,2761,390,195,63236,27
+P0259,Brand B,Instagram,Winter Edit,Product Photo,Lawn suit,533,73,27,9043,49
+P0260,Brand C,TikTok,Eid Collection,Styling Video,Lawn suit,779,86,27,16095,49
+P0261,Brand B,Instagram,12.12 Sale,Sale Announcement,Lawn suit,1147,160,44,25175,22
+P0262,Brand A,Instagram,Winter Edit,Product Photo,Lawn suit,316,60,12,6553,45
+P0263,Brand C,Facebook,Summer Lawn,Product Photo,Lawn suit,621,74,33,8006,10
+P0264,Brand C,Facebook,11.11 Sale,Eid Campaign,Lawn suit,1038,82,77,10383,58
+P0265,Brand C,Facebook,12.12 Sale,Eid Campaign,Lawn suit,1269,135,95,15293,68
+P0266,Brand C,Facebook,12.12 Sale,Styling Video,Lawn suit,438,47,16,7248,85
+P0267,Brand A,Facebook,Summer Lawn,Influencer Post,Lawn suit,380,26,12,6304,29
+P0268,Brand C,TikTok,12.12 Sale,Influencer Post,Lawn suit,289,21,12,5174,26
+P0269,Brand A,TikTok,11.11 Sale,Styling Video,Lawn suit,372,56,18,5474,49
+P0270,Brand C,Facebook,Summer Lawn,Styling Video,Lawn suit,543,54,22,11607,62
+P0271,Brand A,TikTok,Winter Edit,Product Photo,Lawn suit,433,83,24,10185,89
+P0272,Brand B,Instagram,12.12 Sale,Reel,Lawn suit,2540,219,123,30973,3
+P0273,Brand C,Facebook,Eid Collection,Reel,Lawn suit,1550,100,50,31807,22
+P0274,Brand A,Instagram,12.12 Sale,Eid Campaign,Lawn suit,600,97,20,11715,24
+P0275,Brand A,Facebook,Winter Edit,Influencer Post,Lawn suit,1173,213,42,19814,23
+P0276,Brand C,TikTok,Winter Edit,Influencer Post,Lawn suit,753,69,12,8437,42
+P0277,Brand A,Facebook,12.12 Sale,Influencer Post,Lawn suit,809,64,17,17408,78
+P0278,Brand B,Instagram,Eid Collection,Sale Announcement,Lawn suit,680,52,41,16544,3
+P0279,Brand C,TikTok,12.12 Sale,Reel,Lawn suit,1163,149,43,23575,73
+P0280,Brand B,TikTok,Winter Edit,Reel,Lawn suit,663,79,16,15649,55
+P0281,Brand B,TikTok,Winter Edit,Product Photo,Lawn suit,952,84,47,23544,55
+P0282,Brand B,Instagram,Eid Collection,Influencer Post,Lawn suit,491,27,30,6866,61
+P0283,Brand B,Facebook,11.11 Sale,Sale Announcement,Lawn suit,613,74,17,11554,11
+P0284,Brand B,TikTok,12.12 Sale,Influencer Post,Lawn suit,4469,866,303,71758,67
+P0285,Brand B,Facebook,Eid Collection,Influencer Post,Lawn suit,1090,161,81,27002,23
+P0286,Brand A,TikTok,Winter Edit,Eid Campaign,Lawn suit,2465,306,127,23651,46
+P0287,Brand B,Instagram,Eid Collection,Reel,Lawn suit,852,56,48,12788,61
+P0288,Brand C,Facebook,Summer Lawn,Styling Video,Lawn suit,997,87,13,22815,54
+P0289,Brand C,Instagram,Winter Edit,Styling Video,Lawn suit,686,64,52,8800,29
+P0290,Brand A,Instagram,Summer Lawn,Influencer Post,Lawn suit,865,142,32,18504,36
+P0291,Brand C,Facebook,Summer Lawn,Sale Announcement,Lawn suit,390,70,29,5657,43
+P0292,Brand C,Facebook,11.11 Sale,Product Photo,Lawn suit,657,121,33,16201,4
+P0293,Brand A,Facebook,Winter Edit,Eid Campaign,Lawn suit,640,126,6,14732,65
+P0294,Brand C,TikTok,12.12 Sale,Product Photo,Lawn suit,754,148,9,9894,9
+P0295,Brand B,Facebook,Eid Collection,Styling Video,Lawn suit,1342,258,77,28307,41
+P0296,Brand B,Instagram,11.11 Sale,Styling Video,Lawn suit,879,53,43,12065,59
+P0297,Brand C,Facebook,11.11 Sale,Eid Campaign,Lawn suit,891,62,10,16312,8
+P0298,Brand B,TikTok,12.12 Sale,Influencer Post,Lawn suit,1249,119,77,23973,89
+P0299,Brand B,Instagram,11.11 Sale,Product Photo,Lawn suit,429,57,29,9482,34
+P0300,Brand A,TikTok,12.12 Sale,Reel,Lawn suit,1402,90,62,11798,2
+P0301,Brand C,TikTok,12.12 Sale,Influencer Post,Lawn suit,332,58,14,3898,59
+P0302,Brand C,Instagram,11.11 Sale,Sale Announcement,Lawn suit,503,71,5,10111,50
+P0303,Brand A,TikTok,Summer Lawn,Reel,Lawn suit,258,33,16,4535,57
+P0304,Brand C,TikTok,11.11 Sale,Eid Campaign,Lawn suit,441,32,14,7243,67
+P0305,Brand A,Instagram,Summer Lawn,Styling Video,Lawn suit,1583,139,113,14149,43
+P0306,Brand B,Instagram,11.11 Sale,Reel,Lawn suit,1368,101,49,19043,74
+P0307,Brand C,Facebook,Winter Edit,Product Photo,Lawn suit,339,60,16,7697,33
+P0308,Brand A,TikTok,11.11 Sale,Styling Video,Lawn suit,300,41,8,2557,49
+P0309,Brand B,TikTok,Eid Collection,Product Photo,Lawn suit,103,16,2,1518,15
+P0310,Brand A,TikTok,Eid Collection,Reel,Lawn suit,589,55,37,14175,56
+P0311,Brand C,TikTok,Winter Edit,Styling Video,Lawn suit,2967,313,132,26302,24
+P0312,Brand B,TikTok,Winter Edit,Sale Announcement,Lawn suit,787,87,37,16326,63
+P0313,Brand B,TikTok,11.11 Sale,Reel,Lawn suit,583,95,45,7217,72
+P0314,Brand C,Facebook,Summer Lawn,Product Photo,Lawn suit,671,111,51,15253,77
+P0315,Brand B,Facebook,12.12 Sale,Product Photo,Lawn suit,213,17,14,4405,83
+P0316,Brand C,Instagram,Eid Collection,Styling Video,Lawn suit,597,114,13,13765,11
+P0317,Brand A,Facebook,12.12 Sale,Sale Announcement,Lawn suit,647,44,33,7550,13
+P0318,Brand A,Facebook,Summer Lawn,Sale Announcement,Lawn suit,581,107,41,9895,83
+P0319,Brand C,Instagram,Winter Edit,Eid Campaign,Lawn suit,1683,109,60,35759,34
+P0320,Brand C,Facebook,Winter Edit,Sale Announcement,Lawn suit,747,66,12,9096,3
+P0321,Brand B,TikTok,Eid Collection,Product Photo,Lawn suit,755,133,50,9001,26
+P0322,Brand B,Facebook,11.11 Sale,Reel,Lawn suit,541,41,23,4577,75
+P0323,Brand A,TikTok,12.12 Sale,Styling Video,Lawn suit,1202,134,59,29202,32
+P0324,Brand C,Facebook,Eid Collection,Eid Campaign,Lawn suit,2769,325,218,55574,7
+P0325,Brand C,Instagram,12.12 Sale,Eid Campaign,Lawn suit,598,51,31,11245,65
+P0326,Brand A,Instagram,Eid Collection,Product Photo,Lawn suit,309,48,12,6380,18
+P0327,Brand B,Facebook,Eid Collection,Product Photo,Lawn suit,1118,198,40,19047,32
+P0328,Brand B,TikTok,Eid Collection,Reel,Lawn suit,722,130,28,11620,1
+P0329,Brand B,TikTok,11.11 Sale,Reel,Lawn suit,1850,186,33,28937,54
+P0330,Brand C,Instagram,Summer Lawn,Styling Video,Lawn suit,548,71,35,10350,40
+P0331,Brand A,Instagram,Eid Collection,Styling Video,Lawn suit,1671,145,114,19093,78
+P0332,Brand A,Facebook,Winter Edit,Influencer Post,Lawn suit,1033,89,30,23859,30
+P0333,Brand A,Instagram,11.11 Sale,Product Photo,Lawn suit,595,44,18,12970,19
+P0334,Brand C,TikTok,Eid Collection,Sale Announcement,Lawn suit,1531,292,109,21346,15
+P0335,Brand B,Instagram,11.11 Sale,Influencer Post,Lawn suit,773,141,9,13787,18
+P0336,Brand C,Instagram,Summer Lawn,Sale Announcement,Lawn suit,356,59,16,3701,41
+P0337,Brand B,Instagram,Eid Collection,Eid Campaign,Lawn suit,810,103,34,19869,8
+P0338,Brand A,Facebook,Eid Collection,Product Photo,Lawn suit,666,82,38,15550,36
+P0339,Brand B,Facebook,Winter Edit,Product Photo,Lawn suit,212,27,4,5018,77
+P0340,Brand A,Instagram,12.12 Sale,Eid Campaign,Lawn suit,1536,200,87,20961,69
+P0341,Brand C,TikTok,11.11 Sale,Styling Video,Lawn suit,519,59,18,5644,57
+P0342,Brand C,TikTok,Summer Lawn,Product Photo,Lawn suit,1001,69,53,11611,80
+P0343,Brand C,TikTok,Winter Edit,Styling Video,Lawn suit,184,12,2,1753,70
+P0344,Brand B,Facebook,11.11 Sale,Styling Video,Lawn suit,450,86,19,4518,59
+P0345,Brand A,Instagram,12.12 Sale,Eid Campaign,Lawn suit,396,48,18,3648,77
+P0346,Brand A,Instagram,Eid Collection,Product Photo,Lawn suit,320,61,8,7944,12
+P0347,Brand B,TikTok,11.11 Sale,Eid Campaign,Lawn suit,1220,90,24,11295,73
+P0348,Brand B,TikTok,12.12 Sale,Eid Campaign,Lawn suit,949,126,22,9730,27
+P0349,Brand C,Instagram,Eid Collection,Product Photo,Lawn suit,443,35,15,9774,66
+P0350,Brand C,Facebook,Winter Edit,Reel,Lawn suit,736,64,12,13147,82
+P0351,Brand A,Instagram,Winter Edit,Styling Video,Lawn suit,799,43,60,16910,45
+P0352,Brand A,Instagram,11.11 Sale,Reel,Lawn suit,450,30,17,8426,8
+P0353,Brand B,TikTok,11.11 Sale,Product Photo,Lawn suit,773,144,51,17776,33
+P0354,Brand B,TikTok,Eid Collection,Influencer Post,Lawn suit,1413,138,110,26640,37
+P0355,Brand A,Instagram,12.12 Sale,Eid Campaign,Lawn suit,1323,186,20,22327,84
+P0356,Brand C,Instagram,Eid Collection,Eid Campaign,Lawn suit,8,0,0,117800,84
+P0357,Brand C,Instagram,11.11 Sale,Reel,Lawn suit,961,105,68,14997,51
+P0358,Brand B,TikTok,12.12 Sale,Eid Campaign,Lawn suit,31752,4113,1719,440811,85
+P0359,Brand A,TikTok,Summer Lawn,Reel,Lawn suit,768,59,30,12249,39
+P0360,Brand C,Instagram,12.12 Sale,Sale Announcement,Lawn suit,511,101,20,5562,37
+P0361,Brand A,TikTok,11.11 Sale,Eid Campaign,Lawn suit,678,117,8,14605,75
+P0362,Brand B,Facebook,Summer Lawn,Eid Campaign,Lawn suit,577,93,27,7173,60
+P0363,Brand C,Instagram,Summer Lawn,Product Photo,Lawn suit,253,30,20,2684,47
+P0364,Brand C,Facebook,Summer Lawn,Eid Campaign,Lawn suit,627,45,48,7641,41
+P0365,Brand A,Instagram,12.12 Sale,Reel,Lawn suit,775,145,9,17294,63
+P0366,Brand B,Instagram,Winter Edit,Styling Video,Lawn suit,863,87,51,11748,68
+P0367,Brand A,Instagram,11.11 Sale,Influencer Post,Lawn suit,985,56,30,19367,44
+P0368,Brand A,Instagram,Winter Edit,Product Photo,Lawn suit,331,33,24,7467,3
+P0369,Brand B,Instagram,11.11 Sale,Reel,Lawn suit,1373,232,18,12798,10
+P0370,Brand C,TikTok,11.11 Sale,Sale Announcement,Lawn suit,7,0,0,98830,13
+P0371,Brand C,TikTok,12.12 Sale,Influencer Post,Lawn suit,870,141,59,11510,42
+P0372,Brand B,Facebook,12.12 Sale,Styling Video,Lawn suit,486,82,8,5677,55
+P0373,Brand A,TikTok,Summer Lawn,Influencer Post,Lawn suit,1321,108,18,26038,72
+P0374,Brand A,TikTok,11.11 Sale,Influencer Post,Lawn suit,1067,201,73,25038,21
+P0375,Brand A,TikTok,Winter Edit,Eid Campaign,Lawn suit,454,52,9,5908,71
+P0376,Brand A,Instagram,11.11 Sale,Reel,Lawn suit,776,113,36,13712,60
+P0377,Brand A,Facebook,12.12 Sale,Sale Announcement,Lawn suit,4,0,0,36764,5
+P0378,Brand C,Instagram,Winter Edit,Sale Announcement,Lawn suit,364,72,18,6341,32
+P0379,Brand A,Facebook,12.12 Sale,Influencer Post,Lawn suit,1069,98,40,19853,27
+P0380,Brand A,Facebook,Summer Lawn,Product Photo,Lawn suit,225,13,9,4134,79
+P0381,Brand B,Facebook,Winter Edit,Reel,Lawn suit,1777,210,25,33052,82
+P0382,Brand A,TikTok,Winter Edit,Eid Campaign,Lawn suit,2207,153,171,22724,73
+P0383,Brand B,Instagram,12.12 Sale,Eid Campaign,Lawn suit,909,66,28,17989,47
+P0384,Brand A,Facebook,12.12 Sale,Product Photo,Lawn suit,632,91,14,12305,44
+P0385,Brand A,Instagram,Eid Collection,Reel,Lawn suit,205,22,6,4018,28
+P0386,Brand B,TikTok,12.12 Sale,Reel,Lawn suit,413,77,32,3824,69
+P0387,Brand C,Facebook,Winter Edit,Reel,Lawn suit,680,66,11,10605,8
+P0388,Brand B,Facebook,12.12 Sale,Sale Announcement,Lawn suit,330,52,23,4934,25
+P0389,Brand B,Facebook,11.11 Sale,Eid Campaign,Lawn suit,1608,191,95,15234,13
+P0390,Brand B,Instagram,Eid Collection,Reel,Lawn suit,2633,392,179,31017,44
+P0391,Brand A,Facebook,11.11 Sale,Sale Announcement,Lawn suit,311,43,24,4819,27
+P0392,Brand A,Instagram,11.11 Sale,Product Photo,Lawn suit,318,38,21,6560,18
+P0393,Brand B,TikTok,Winter Edit,Influencer Post,Lawn suit,1098,211,83,13209,34
+P0394,Brand A,Facebook,12.12 Sale,Styling Video,Lawn suit,1833,185,34,40519,77
+P0395,Brand C,TikTok,Eid Collection,Sale Announcement,Lawn suit,303,23,19,5235,50
+P0396,Brand B,Facebook,Eid Collection,Eid Campaign,Lawn suit,1221,185,58,25552,74
+P0397,Brand A,TikTok,Winter Edit,Reel,Lawn suit,2371,419,113,38015,82
+P0398,Brand B,Instagram,Winter Edit,Product Photo,Lawn suit,202,11,14,3330,81
+P0399,Brand A,Instagram,Summer Lawn,Product Photo,Lawn suit,248,29,19,4596,32
+P0400,Brand B,TikTok,Eid Collection,Product Photo,Lawn suit,402,73,23,9557,79

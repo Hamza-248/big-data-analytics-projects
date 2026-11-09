@@ -1,0 +1,103 @@
+﻿
+========================================================================
+1 · GENERATE DATASET (simulated, 12 columns)
+========================================================================
+Generated 10,000 records -> data/project2_ad_campaigns.csv
+        date     campaign  platform  impressions  clicks    spend  conversions   revenue  age gender        city   device
+0 2024-07-10    Awareness  Facebook         1641      25   324.78            0      0.00   31   Male   Islamabad   Mobile
+1 2024-05-12  Retargeting    TikTok         2900      92   787.22            2   1161.78   19  Other  Faisalabad  Desktop
+2 2024-05-16       Launch    TikTok         4662     100   926.12            3   1434.19   22   Male      Quetta  Desktop
+3 2024-05-22       Launch    Google         1940      84  1987.24            5   7479.34   60   Male     Karachi  Desktop
+4 2024-07-09    Awareness    Google         2370     112  2421.36           15  17302.57   39  Other     Karachi   Tablet
+
+========================================================================
+2 · MARKETING METRICS
+========================================================================
+Overall account metrics:
+  CTR             : 0.0238
+  CPC             : 13.5904
+  CPA             : 270.2569
+  conversion_rate : 0.0503
+  ROAS            : 3.6289
+  revenue         : Rs. 45,555,785
+
+Campaign performance table: 25 campaign x platform rows
+ campaign  platform  impressions  clicks      spend  conversions    revenue   CTR     CPA  ROAS
+Awareness  Facebook      1401979   25107  304719.47         1448 1314718.64 0.018 210.442 4.315
+Awareness    Google      1425613   49878 1092393.02         3802 4569799.95 0.035 287.321 4.183
+Awareness Instagram      1524705   34535  482349.53         1749 1654166.87 0.023 275.786 3.429
+Awareness    TikTok      1811172   51505  410804.95         1535 1070597.44 0.028 267.625 2.606
+Awareness   YouTube      1218363   17970  180059.44          734  628700.29 0.015 245.313 3.492
+
+========================================================================
+BIG DATA SIMULATION · Pandas vs MapReduce vs Spark
+========================================================================
+Spark mode: pyspark  (real Spark on JDK: C:\Program Files\Eclipse Adoptium\jdk-21.0.12.101-hotspot\)
+Task: aggregate spend/revenue/conversions by platform, then ROAS.
+
+      10,000 rows | pandas   0.002s | mapreduce   0.008s | spark/pysp   0.957s | agree=True
+     100,000 rows | pandas   0.010s | mapreduce   0.135s | spark/pysp   0.474s | agree=True
+   1,000,000 rows | pandas   0.075s | mapreduce   0.725s | spark/pysp   0.721s | agree=True
+  10,000,000 rows | pandas   0.677s | mapreduce   8.990s | spark/pysp   3.908s | agree=True
+   saved chart -> outputs_project2/scaling_pandas_mapreduce_spark.png
+
+Read: on this single machine Pandas (vectorised C) is fastest;
+pure-Python MapReduce scales linearly but is slowest; Spark here reads
+the data from disk and aggregates in the JVM — its start-up and IO
+overhead only pays off on a cluster with data too big for one machine's
+memory. All three produce the SAME RESULT via different engines.
+
+========================================================================
+MARKETING BUDGET RECOMMENDATION ENGINE
+========================================================================
+Historical performance by platform (simulated):
+                spend      revenue  ROAS     CPA  recommended_pct  recommended_rs
+platform                                                                         
+Facebook   1634259.71   6712821.22  4.11  218.78             23.3        233210.0
+Instagram  2554837.57   8572020.26  3.36  280.04             19.0        190495.0
+Google     5231768.13  21122652.35  4.04  295.60             22.9        229225.0
+TikTok     2080608.42   5495011.47  2.64  266.44             15.0        149948.0
+YouTube    1052228.59   3653279.27  3.47  241.89             19.7        197122.0
+
+>>> Recommended split of the next Rs. 1,000,000:
+    Facebook    23.3%  = Rs.      233,210
+    Instagram   19.0%  = Rs.      190,495
+    Google      22.9%  = Rs.      229,225
+    TikTok      15.0%  = Rs.      149,948
+    YouTube     19.7%  = Rs.      197,122
+    TOTAL       99.9%  = Rs.    1,000,000
+   saved chart -> outputs_project2/budget_allocation.png
+
+Limitations: data is SIMULATED; the split assumes past ROAS persists,
+ignores diminishing returns / audience saturation / seasonality, and
+should be confirmed with controlled A/B tests before committing spend.
+
+========================================================================
+REQUIREMENTS CHECK
+========================================================================
+  [PASS] Dataset has all 12 required columns
+  [PASS] Baseline dataset has 10,000 records
+  [PASS] Platforms are exactly the 5 named channels
+  [PASS] Metric: CTR computed
+  [PASS] Metric: CPC computed
+  [PASS] Metric: CPA computed
+  [PASS] Metric: conversion rate computed
+  [PASS] Metric: ROAS computed
+  [PASS] Metric: revenue present
+  [PASS] Metric: campaign performance table built
+  [PASS] Metrics are finite where denominators > 0
+  [PASS] Big Data sim scaled to 10,000,000 records
+  [PASS] Three engines compared (Pandas, MapReduce, Spark)
+  [PASS] Engines produce IDENTICAL aggregation (correctness)
+  [PASS] Budget engine covers all 5 platforms
+  [PASS] Budget allocation sums to ~100%
+  [PASS] Budget allocation sums to ~Rs. 1,000,000
+  [PASS] all 2 charts saved
+------------------------------------------------------------------------
+  17/17 requirement checks PASSED
+========================================================================
+  RESULT: ALL REQUIREMENTS FULFILLED
+========================================================================
+SUCCESS: The process with PID 6824 (child process of PID 16008) has been terminated.
+SUCCESS: The process with PID 16008 (child process of PID 16500) has been terminated.
+SUCCESS: The process with PID 16500 (child process of PID 8472) has been terminated.

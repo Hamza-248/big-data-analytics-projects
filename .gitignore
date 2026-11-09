@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Spark / temp staging
+spark-warehouse/
+metastore_db/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
